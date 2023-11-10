@@ -5,7 +5,7 @@ This repository contains the solutions to the CMD CHALLENGE tasks. The challenge
 ## Completed Tasks
 
 ### Task 0: First 九 tasks
-![Task 0](./command_line_for_the_win/0-first_9_tasks.jpg)
+![Task 0](.https://github.com/ya7ya99/alx-system_engineering-devops/blob/master/command_line_for_the_win/0-first_9_tasks.PNG)
 
 ### Task 1: Reach חי completed tasks
 ![Task 1](./command_line_for_the_win/1-next_9_tasks.jpg)
