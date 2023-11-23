@@ -24,4 +24,4 @@ while [ "$i" -lt 21 ]; do
   esac
 
   ((i++))
-don
+done
