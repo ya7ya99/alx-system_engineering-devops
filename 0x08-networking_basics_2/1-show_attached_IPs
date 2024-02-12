@@ -5,3 +5,4 @@
 #ifconfig | grep -Eo "inet (addr:)?([0-9]*\.){3}[0-9]*" | awk '{print $2}'
 
 ip -4 -o addr show | awk '{print $4}' | cut -d "/" -f 1
+

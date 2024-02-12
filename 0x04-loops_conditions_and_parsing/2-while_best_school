@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-# prints a string 10 times using a while loop
+# prints a string 10 times using while loop 
 
 i=0
-while [ $i -lt 10 ]; do
-    echo "Best School"
-    ((i++))
-done
 
+while [ "$i" -lt 10 ]; do
+  echo "Best School"
+  ((i++))
+done
